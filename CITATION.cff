@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Topic Modeling of Nina Bouraoui's Novels"
+authors:
+  - family-names: Bergaglio
+    given-names: Eliana
+    email: eliana.bergaglio@gmail.com
+repository-code: "https://github.com/elianabergaglio/topic-modeling-Nina-Bouraoui-small-corpus"
+license: MIT
+version: "1.0.0"
+date-released: "2027-04-27"
+keywords:
+  - topic modeling
+  - BERTopic
+  - computational literary analysis
+  - French literature
+  - Nina Bouraoui
+  - digital humanities
+  - NLP
+abstract: >
+  This study falls within the field of digital humanities and explores 
+  the dialogue between dis tant and close reading through the application 
+  of topic modeling to literary analysis. It proposes a methodological 
+  experiment based on the use of BERTopic as a tool to aid in the 
+  interpretation of a corpus composed of three autobiographical works by 
+  Nina Bouraoui. The interpretive analysis relies on the results of the 
+  thematic clustering process, as well as the lexical representation of 
+  themes using the most frequent words, which define their primary semantic 
+  cores. Within each cluster, the textual segments (chunks) associated with 
+  the respective themes are then identified, serving as the starting point 
+  for an in-depth reading.

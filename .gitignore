@@ -1,0 +1,11 @@
+topic_modeling_output/
+.venv/
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.eggs/
+dist/
+build/
