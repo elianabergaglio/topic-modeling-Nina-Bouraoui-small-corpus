@@ -2,7 +2,7 @@
 
 Computational literary analysis of three French works by Nina Bouraoui using unsupervised topic modeling. The pipeline extracts semantic themes from sentence-level text chunks using multilingual transformer embeddings, UMAP dimensionality reduction, HDBSCAN clustering, and BERTopic.
 
-**Novels analyzed:**
+**Works analyzed:**
 - *La Voyeuse interdite* (1991)
 - *Garçon manqué* (2000)
 - *Mes mauvaises pensées* (2005)
