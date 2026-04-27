@@ -1,6 +1,6 @@
-# Topic Modeling of Nina Bouraoui's Novels
+# Topic Modeling of Nina Bouraoui's Works
 
-Computational literary analysis of three French novels by Nina Bouraoui using unsupervised topic modeling. The pipeline extracts semantic themes from sentence-level text chunks using multilingual transformer embeddings, UMAP dimensionality reduction, HDBSCAN clustering, and BERTopic.
+Computational literary analysis of three French works by Nina Bouraoui using unsupervised topic modeling. The pipeline extracts semantic themes from sentence-level text chunks using multilingual transformer embeddings, UMAP dimensionality reduction, HDBSCAN clustering, and BERTopic.
 
 **Novels analyzed:**
 - *La Voyeuse interdite* (1991)
@@ -34,12 +34,11 @@ pip install -r requirements.txt
 
 ## Reproduce Results
 
-**Option 1 — CLI (recommended):**
 ```bash
-# Process all novels
+# Process all works
 python run_pipeline.py --config config.yaml
 
-# Process a single novel
+# Process a single work
 python run_pipeline.py --config config.yaml --text "La_Voyeuse_interdite"
 ```
 
